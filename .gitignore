@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# Poznamky
+Poznamky/
+
 # BlueJ files
 *.ctxt
 
