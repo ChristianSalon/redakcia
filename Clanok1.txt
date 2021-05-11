@@ -2,9 +2,9 @@ Autor: Christian Saloň
 Nazov: Clanok o autach
 Datum: 11.05.2021
 ----
-Uvod 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Cras eu nulla ut neque ornare ultricies at sit amet nisi.
-Nam in sem ut arcu maximus dignissim non a nulla.
+Novy Uvod 2 - Aenean facilisis, lorem id aliquam scelerisque, ante metus dapibus lectus, a pharetra purus turpis at purus.
+Nam tincidunt tristique lorem congue accumsan.
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 ----
 Obsah 2 - Nulla ullamcorper, justo id ultricies convallis, odio metus dignissim purus, nec tincidunt metus magna eu magna.
 Praesent eu commodo arcu.
