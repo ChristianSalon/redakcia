@@ -10,6 +10,6 @@ Obsah 2 - Nulla ullamcorper, justo id ultricies convallis, odio metus dignissim 
 Praesent eu commodo arcu.
 Proin sed metus eu lorem suscipit lobortis vel lobortis lectus.
 ----
-Zaver 2 - Aliquam quis felis nibh.
-Aliquam convallis, diam vitae suscipit vulputate, eros eros porttitor purus, ut fermentum nibh mi sit amet diam.
-Integer hendrerit convallis turpis, at venenatis nulla lacinia nec.
+Zaver 1 - Sed gravida, quam a lobortis congue, risus justo sagittis tellus, vitae consequat elit metus et tellus.
+Proin lorem velit, pharetra ut luctus eget, maximus eget risus.
+Vivamus a velit sed nisi malesuada ultricies quis at arcu.
